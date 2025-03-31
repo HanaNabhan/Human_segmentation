@@ -21,4 +21,6 @@ This implementation is built using **PyTorch** and leverages its deep learning c
 ## Results
 Sample outputs include segmented images showing detected human regions. Performance metrics and qualitative results will be added based on training outcomes.
 
-
+<p align="center">
+  <img src="https://github.com/HanaNabhan/Human_segmentation/blob/main/output.png" width="900"/>
+</p>
